@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rray524" alt="rray524" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@rahulray2" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulray2?logo=twitter&style=for-the-badge" alt="@rahulray2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RAHULRAY2" target="blank"><img src="https://img.shields.io/twitter/follow/RAHULRAY2?logo=twitter&style=for-the-badge" alt="RAHULRAY2" /></a> </p>
 
 - 🔭 I’m currently working on [MERN Software Project](https://sunv-properties.web.app/)
 
