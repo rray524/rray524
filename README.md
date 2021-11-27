@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **rray524@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12zcMog6RbY2hrSGX6UX7r4b6EfjNfwuB/view](https://drive.google.com/file/d/12zcMog6RbY2hrSGX6UX7r4b6EfjNfwuB/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1J6m75jJI6zivVSaU-efshI8mgfImg_-J/view](https://drive.google.com/file/d/1J6m75jJI6zivVSaU-efshI8mgfImg_-J/view)
 
 - ⚡ Fun fact **Lazy coder, cricketer ( all-rounder ), foodie, travel freak**
 
