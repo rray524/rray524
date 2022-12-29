@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rray524" alt="rray524" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/RAHULRAY2" target="blank"><img src="https://img.shields.io/twitter/follow/RAHULRAY2?logo=twitter&style=for-the-badge" alt="RAHULRAY2" /></a> </p>
 
 - 🔭 I’m currently working on [MERN Software Project](https://sunv-properties.web.app/)
 
@@ -18,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rray524](https://github.com/rray524)
 
-- 📝 I regularly write articles on [http://rahul-wp.com/](http://rahul-wp.com/)
-
 - 💬 Ask me about **react, node, typescript, redux, next.js, express, Firebase, bootstrap, tailwind, material UI, mongoDB, firebase hosting, netlify deploy**
 
 - 📫 How to reach me **rray524@gmail.com**
@@ -30,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rahulray2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahulray2" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/rahul-ray-552776aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-ray-552776aa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4771002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4771002" height="30" width="40" /></a>
 <a href="https://fb.com/rahulwebdesignerndeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulwebdesignerndeveloper" height="30" width="40" /></a>
