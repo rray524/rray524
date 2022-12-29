@@ -30,7 +30,6 @@
 
 <a href="https://linkedin.com/in/rahul-ray-552776aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-ray-552776aa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4771002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4771002" height="30" width="40" /></a>
-<a href="https://fb.com/rahulwebdesignerndeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulwebdesignerndeveloper" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rray524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rray524" height="30" width="40" /></a>
 </p>
 
