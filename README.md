@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Mondal</h1>
-<h3 align="center">A passionate Full Mern Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Mern Stack Developer from India</h3>
 <img src="https://i.ibb.co/fx5s5xB/develop-mern-stack-application.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rray524&label=Profile%20views&color=0e75b6&style=flat" alt="rray524" /> </p>
