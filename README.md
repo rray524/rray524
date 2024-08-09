@@ -7,17 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rray524" alt="rray524" /></a> </p>
 
 
-- 🔭 I’m currently working on [MERN Software Project](https://sunv-properties.web.app/)
-
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on [MERN Software Project](https://sunv-tent-camp.web.app/)
-
-- 🤝 I’m looking for help with [MERN Software Project](https://simple-react-authenticat-49c10.web.app/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/rray524](https://github.com/rray524)
 
-- 💬 Ask me about **react, node, typescript, redux, next.js, express, Firebase, bootstrap, tailwind, material UI, mongoDB, firebase hosting, netlify deploy**
+- 💬 Ask me about **react, node, typescript, redux, next.js, express, Firebase, bootstrap, tailwind, material UI, mongoDB**
 
 - 📫 How to reach me **rray524@gmail.com**
 
